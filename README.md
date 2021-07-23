@@ -1,6 +1,6 @@
 # car_generator
 
-In this project, I have trained a DCGAN on the Stanford Cars Dataset to generate images of cars.
+In this project, I have trained a DCGAN on the Stanford Cars Dataset to generate images of cars. You can download this dataset along with the annotations file here: https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 This repository contains the following files:
 
